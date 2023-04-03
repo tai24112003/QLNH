@@ -1,0 +1,92 @@
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\bin\Debug\frmMain.pdb
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\bin\Debug\Guna.UI2.dll
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.AssemblyReference.cache
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Form1.resources
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\C#\đồ án\QuanLyNhaHang\frmMain\obj\Debug\frmMain.pdb
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\bin\Debug\frmMain.pdb
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\bin\Debug\Guna.UI2.dll
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.AssemblyReference.cache
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_NV.resources
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.exe
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.pdb
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\bin\Debug\frmMain.pdb
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\bin\Debug\Guna.UI2.dll
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.AssemblyReference.cache
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_QL.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_NV.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.pdb
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_QL.resources
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang.resources
+C:\Users\Gaming\Desktop\DO AN\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang_themnhomkhachhang.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\bin\Debug\frmMain.pdb
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\bin\Debug\Guna.UI2.dll
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.AssemblyReference.cache
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_QL.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_NV.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang_themnhomkhachhang.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.pdb
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmOrder.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Order.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.uFood_.resources
+C:\Users\aniga\Desktop\Học Tập\a\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Bill.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Bill.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmOrder.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang_themnhomkhachhang.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Order.resources
+C:\Users\aniga\Desktop\Học Tập\DoAn\QuanLyNhaHang\frmMain\obj\Debug\frmMain.uFood_.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.AssemblyReference.cache
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Bill.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_QL.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmMain_NV.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmOrder.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frm_danhmuc_khachhang_themnhomkhachhang.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Order.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.uFood_.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\bin\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\bin\Debug\frmMain.pdb
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\bin\Debug\Guna.UI2.dll
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.exe
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.pdb
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmThanhToan.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.Bill_TT.resources
+C:\Users\aniga\Desktop\Học Tập\QuanLyNhaHang\frmMain\obj\Debug\frmMain.frmThuTien.resources

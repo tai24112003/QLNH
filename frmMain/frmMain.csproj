@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A22A512E-F077-4706-A4F0-A8CB76E0AD84}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>frmMain</RootNamespace>
+    <AssemblyName>frmMain</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.4\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmMain_QL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain_QL.Designer.cs">
+      <DependentUpon>frmMain_QL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrder.Designer.cs">
+      <DependentUpon>frmOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain_NV.Designer.cs">
+      <DependentUpon>frmMain_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThanhToan.Designer.cs">
+      <DependentUpon>frmThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThuTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThuTien.Designer.cs">
+      <DependentUpon>frmThuTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_danhmuc_khachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_danhmuc_khachhang.Designer.cs">
+      <DependentUpon>frm_danhmuc_khachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_danhmuc_khachhang_themnhomkhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_danhmuc_khachhang_themnhomkhachhang.Designer.cs">
+      <DependentUpon>frm_danhmuc_khachhang_themnhomkhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Order.Designer.cs">
+      <DependentUpon>Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="uFood_.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uFood_.Designer.cs">
+      <DependentUpon>uFood_.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill_TT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Bill_TT.Designer.cs">
+      <DependentUpon>Bill_TT.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill_TT.resx">
+      <DependentUpon>Bill_TT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain_QL.resx">
+      <DependentUpon>frmMain_QL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain_NV.resx">
+      <DependentUpon>frmMain_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrder.resx">
+      <DependentUpon>frmOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThanhToan.resx">
+      <DependentUpon>frmThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThuTien.resx">
+      <DependentUpon>frmThuTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_danhmuc_khachhang.resx">
+      <DependentUpon>frm_danhmuc_khachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_danhmuc_khachhang_themnhomkhachhang.resx">
+      <DependentUpon>frm_danhmuc_khachhang_themnhomkhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order.resx">
+      <DependentUpon>Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="uFood_.resx">
+      <DependentUpon>uFood_.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamburger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order-delivery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tableEmty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tableBook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tableProcess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cocktail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\more.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\com-dui-ga-bb3e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send-message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar-currency-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-right.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
